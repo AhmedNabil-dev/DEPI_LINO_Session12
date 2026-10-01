@@ -1,0 +1,16 @@
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\bin\Debug\net10.0\DEPI_C#_LINQ_Session12.exe
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\bin\Debug\net10.0\DEPI_C#_LINQ_Session12.deps.json
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\bin\Debug\net10.0\DEPI_C#_LINQ_Session12.runtimeconfig.json
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\bin\Debug\net10.0\DEPI_C#_LINQ_Session12.dll
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\bin\Debug\net10.0\DEPI_C#_LINQ_Session12.pdb
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\DEPI_C#_LINQ_Session12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\DEPI_C#_LINQ_Session12.AssemblyInfoInputs.cache
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\DEPI_C#_LINQ_Session12.AssemblyInfo.cs
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\DEPI_C#_LINQ_Session12.csproj.CoreCompileInputs.cache
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\DEPI_C#_LINQ_Session12.dll
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\refint\DEPI_C#_LINQ_Session12.dll
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\DEPI_C#_LINQ_Session12.pdb
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\DEPI_C#_LINQ_Session12.genruntimeconfig.cache
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\ref\DEPI_C#_LINQ_Session12.dll
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\obj\Debug\net10.0\DEPI_C#_.B059DD2D.Up2Date
+C:\Depi_fullstack\Tech\C#\LINQ\Session 12\DEPI_C#_LINQ_Session12\DEPI_C#_LINQ_Session12\bin\Debug\net10.0\Class\Customers.xml
